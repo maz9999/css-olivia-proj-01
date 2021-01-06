@@ -1,0 +1,39 @@
+.header {
+    background-color: rgb(41, 41, 41);
+    text-align: center;
+    width: 20%;
+    margin: auto;
+}
+
+h1 {
+    color: rgb(248, 248, 248);
+}
+
+.about-me {
+    font-size: 20px;
+    opacity: 1;
+}
+
+.title {
+    font-weight:bold ;
+}
+
+.container {
+    width: 20%;
+    padding: 1 rem;
+    margin: auto;
+}
+
+
+body {
+    font-family: DM Sans;
+    color: rgb(248, 248, 248);
+    background-color: rgb(41, 41, 41);
+    text-align: left;
+    list-style-position: inside;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+    
